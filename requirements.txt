@@ -1,2 +1,2 @@
 pytz
-volkswagencarnet==4.4.62-beta1
+volkswagencarnet @ git+https://github.com/LookedPath/volkswagencarnet@try-harder
